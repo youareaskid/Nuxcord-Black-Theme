@@ -7,7 +7,9 @@
 For Start :
 
 1 Open Developer Tools with F12 or CTRL+Shift+I in your browser
+
 2 Click on "Console" in the top menu of DevTools (ignore all the scary warnings)
+
 3 Paste the code into the console (The browser might prompt you to type "allow pasting", or something similiar.)
 
 ```
