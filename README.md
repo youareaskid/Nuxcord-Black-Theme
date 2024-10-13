@@ -1,10 +1,10 @@
-🌙ᆞNuxcord-Black-Theme
+# 🌙ᆞNuxcord-Black-Theme
 
 Bonjour, je vous présente mon nouveau script que j'ai créer pour pouvoir avoir un thème noir sur Discord !
 
 ![image](https://github.com/user-attachments/assets/0376e3ea-288f-4596-ac5f-643dfa1b9559)
 
-❔ᆞHow To Use
+## ❔ᆞHow To Use
 
 Pour commencer :
 1. Ouvrez l'application Discord
