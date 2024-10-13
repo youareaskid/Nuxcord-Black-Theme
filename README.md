@@ -7,6 +7,7 @@ Bonjour, je vous présente mon nouveau script que j'ai créer pour pouvoir avoir
 ## ❔ᆞHow To Use
 
 Pour commencer :
+
 1. Ouvrez l'application Discord
 
 2. Attendez que discord est complétement chargé
