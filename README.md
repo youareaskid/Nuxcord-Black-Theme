@@ -2,8 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/0376e3ea-288f-4596-ac5f-643dfa1b9559)
 
-![NuxCord-Dark-Theme](https://github.com/user-attachments/assets/0376e3ea-288f-4596-ac5f-643dfa1b9559)
-
 ## ❔ᆞHow To Use
 
 For Start :
